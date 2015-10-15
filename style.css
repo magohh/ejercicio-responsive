@@ -1,0 +1,135 @@
+
+.ico{
+	font-family: "Glyphicons Halflings";
+}
+@media (max-width: 768px){
+	div [name="busqueda"] {
+			position: absolute;
+			width: 1px;
+			height: 1px;
+			padding: 0;
+			margin: -1px;
+			overflow: hidden;
+			clip: rect(0, 0, 0, 0);
+			border: 0;
+	}
+}
+@media (max-width: 768px){
+	div[name="Masinfo"] {
+			position: absolute;
+			width: 1px;
+			height: 1px;
+			padding: 0;
+			margin: -1px;
+			overflow: hidden;
+			clip: rect(0, 0, 0, 0);
+			border: 0;
+	}
+}
+.bkg{
+	background-color: #E6E6E6;
+	color:gray;
+	height: 100px;
+	text-align: center;
+	padding: 2%;
+	padding-bottom: 0%;
+	margin-bottom: 0%;
+}
+.bkg a{
+	color:gray;
+}
+
+h3{
+	background-color: gray;
+	padding: 1%;
+	width: intrinsic;
+	color:white!important;
+
+}
+.line{
+	border-left: black solid 1px;
+	height: 10px;
+	background-color:black;
+}
+.g{
+	color:gray;
+	font-size: 80%;
+}
+
+.bold{
+	font-weight: bold;
+}
+.s{
+	text-decoration: underline
+}
+.b2{
+	background-color: black;
+	color:white;
+	width: intrinsic;
+	padding: .5%;
+}
+.separator{
+	border-top:#E6E6E6 solid 1px;
+	margin: 7%;
+	width: 100%;
+	height: 1px;
+	margin-left: 0;
+	margin-right: 0;
+}
+.pic{
+	width: 100%;
+	height: 250px;
+	background-color: gray;
+	text-align: center;
+	font-size: 150%;
+	padding: 30%;
+	margin-bottom: 3%;
+}
+p{
+	color:gray;
+}
+.clip{
+	background-color: #E6E6E6;
+	width: 100%;
+	height: intrinsic;
+	padding-bottom: 2%;
+	padding: 3%;
+}
+.date{
+	background-color: gray;
+	padding: 18%;
+	width: 130%;
+	font-size: 150%;
+	margin-top: 10px;
+
+}
+.w{
+	width: 60%!important;
+}
+h6~p{
+	font-size: 90%;
+}
+h6{
+	margin-top: -5%;
+}
+.m-3{
+	margin-top: 3%;s
+}
+.sp{
+	font-size: 90%;
+}
+.magazine{
+	background-color: #E6E6E6;
+	padding: 5%;
+}
+.magazine p{
+	font-size: 90%;
+}
+.separator2{
+	border-top:black solid 5px;
+	margin: 7%;
+	width: 100%;
+	height: 1px;
+	margin-left: 0;
+	margin-right: 0;
+}
